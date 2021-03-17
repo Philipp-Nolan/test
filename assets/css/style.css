@@ -1,0 +1,24 @@
+@import './reset.css';
+@import './bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Revalia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import './header.css';
+@import'./about.css';
+@import'./content.css';
+@import'./btn.css';
+@import'./numbers.css';
+@import'./skills.css';
+*{
+  box-sizing: border-box;
+
+}
+
+.rectangle {
+  width: 100vw;
+  height: 10%;
+  background: #eeeff1;
+}
+
+main{
+  width: 100%;
+}

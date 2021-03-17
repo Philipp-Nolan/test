@@ -1,0 +1,25 @@
+.skills{
+  margin-top: 102px;
+  display: flex;
+  /* justify-content: center; */
+}
+
+.skills-statistics{
+  display: flex;
+  flex-direction: column;
+  width: 445px;
+height: 257px;
+margin-right: 150px;
+
+}
+.solid{
+  width: 349.36px;
+  height: 4px;
+  background: #34547A;
+  /* transform: rotate(-0.06deg); */
+}
+
+.skills-img{
+width: 555px;
+height: 450px;
+}
